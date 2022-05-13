@@ -1,0 +1,11 @@
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\bin\Debug\лаба 11.exe.config
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\bin\Debug\лаба 11.exe
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\bin\Debug\лаба 11.pdb
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.AssemblyReference.cache
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\obj\Debug\лаба_11.Form1.resources
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\obj\Debug\лаба_11.Properties.Resources.resources
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.GenerateResource.cache
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\obj\Debug\лаба 11.csproj.CoreCompileInputs.cache
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\obj\Debug\лаба 11.exe
+C:\Users\Helga\Desktop\лабы\имитационка\лаба 11\лаба 11\obj\Debug\лаба 11.pdb
